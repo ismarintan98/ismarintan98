@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ismarintan
+- 👋 Hi, I’m Marin
 - 👀 I’m interested in robotic, automation, and embedded system
 - 🌱 I'm currently learning in electronic engineering at Institut Teknologi Sepuluh Nopember, Surabaya
 - 📫 you can reach me at email : ismarintan16@mhs.ee.its.ac.id
